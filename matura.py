@@ -13,3 +13,4 @@ for line in file:
 
 
 print(listy[0:10])
+
